@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/launch/launch",
+    "pages/index/index",
+    "pages/sort/sort",
+    "pages/shopCar/shopCar",
+    "pages/center/center",
+    "pages/login/login",
+    "pages/editCenter/editCenter",
+    "pages/foodList/foodList",
+    "pages/fooddetails/fooddetails",
+    "pages/dingyue/dingyue",
+    "pages/geren/geren",
+    "pages/setting/setting",
+    "pages/setting/setting1",
+    "pages/setting/setting2",
+    "pages/setting/setting3",
+    "pages/setting/setting4",
+    "pages/setting/setting5",
+    "pages/setting/setting6",
+    "pages/setting/setting7",
+    "pages/search/search",
+    "pages/sort/mubiaodetail",
+    "pages/sort/updatamubiao",
+    "pages/jieguoye/jieguoye",
+    "pages/sportList/sportList",
+    "pages/searchsport/searchsport",
+    "pages/setting/setting3-3"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#636263",
+    "backgroundColor": "#173430",
+    "selectedColor": "#636263",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/indexSelected.png"
+      },
+      {
+        "pagePath": "pages/sort/sort",
+        "text": "体重",
+        "iconPath": "static/tabbar/list.png",
+        "selectedIconPath": "static/tabbar/listSelected.png"
+      },
+      {
+        "pagePath": "pages/shopCar/shopCar",
+        "text": "数据",
+        "iconPath": "static/tabbar/shop.png",
+        "selectedIconPath": "static/tabbar/shopSelected.png"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "text": "我的",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/mySelected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,54 @@
+
+.input_item1.data-v-3f122818 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 310px;
+  height: 50px;
+  color: #FFFFFF;
+  font-size: 16px;
+  background: #173430;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+.content.data-v-3f122818{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.xiao-kapian.data-v-3f122818{
+  width: 85%;
+  height: 80px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background:#19b888 ;
+}
+.sifenzhi.data-v-3f122818{
+  display: flex;
+  flex-wrap: wrap;
+  width: 85%;
+  justify-content: space-between;
+}
+.xiao_item1.data-v-3f122818{
+  margin: 14px 0;
+  width: 40%;
+  height: 120px;
+  background: #ffe8d7;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.xiao_item.data-v-3f122818{
+  margin: 14px 0;
+  width: 40%;
+  height: 120px;
+  background: #f6f7f7;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

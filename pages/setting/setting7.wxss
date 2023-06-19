@@ -1,0 +1,8 @@
+
+.submit_box.data-v-afff739a {
+  position: absolute;
+  float: bottom;
+  bottom: 40px;
+  left: 45%;
+}
+

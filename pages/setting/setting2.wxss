@@ -1,0 +1,25 @@
+
+.content.data-v-eed3a92e{
+  display: flex;
+  margin-top: 150px;
+  align-items: center;
+  justify-content: center;
+}
+.top1.data-v-eed3a92e {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 100px;
+}
+.submit_box.data-v-eed3a92e {
+  position: absolute;
+  float: bottom;
+  bottom: 40px;
+  left: 45%;
+}
+.bg.data-v-eed3a92e{
+  background: #ebf4d5;
+}
+.moren.data-v-eed3a92e{
+  background: #f6f7f7;
+}

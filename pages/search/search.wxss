@@ -1,0 +1,30 @@
+
+.top1.data-v-c10c040c {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.sandian.data-v-c10c040c{
+  width: 60px;
+  height: 20px;
+  background: #19B888;
+  border-radius: 30px;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 14px;
+}
+.input_item.data-v-c10c040c {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 310px;
+  height: 50px;
+  background: #F6F7F7;
+  border-radius: 30px;
+  margin: 10px 0;
+}
+.input.data-v-c10c040c {
+  width: 75%;
+  height: 100%;
+}

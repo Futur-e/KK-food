@@ -1,0 +1,54 @@
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.title {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.logindes {
+  font-size: 14px;
+  color: #698480;
+}
+.input_box {
+  height: 130px;
+  display: flex;
+  margin-top: 50px;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.input_item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 310px;
+  height: 50px;
+  background: #F6F7F7;
+  border-radius: 30px;
+}
+.input{
+  width: 75%;
+  height: 100%;
+}
+.placehoder_style{
+  color: #698480;
+  /*margin-left: 20px;*/
+}
+.submit_box{
+  position: absolute;
+  float: bottom;
+  bottom: 30px;
+  text-align: center;
+}
+.btn{
+  width: 310px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 30px;
+  background: #173430;
+  color: white;
+}

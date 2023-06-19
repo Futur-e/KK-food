@@ -1,0 +1,13 @@
+
+.top1.data-v-018cdf56 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 100px;
+}
+.submit_box.data-v-018cdf56{
+  position: absolute;
+  float: bottom;
+  bottom: 40px;
+  left: 45%;
+}

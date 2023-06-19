@@ -1,0 +1,22 @@
+
+.top1.data-v-279a04a8 {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.detailbox.data-v-279a04a8{
+  width: 92%;
+  height: 200px;
+  padding: 20px 12px;
+  background: #f6f7f7;
+  border-radius: 30px;
+}
+.item.data-v-279a04a8{
+  color: #698480;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  height: 40px;
+}

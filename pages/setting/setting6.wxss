@@ -1,0 +1,25 @@
+
+.content.data-v-f25414ba {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.top1.data-v-f25414ba {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 100px;
+}
+.submit_box.data-v-f25414ba {
+  position: absolute;
+  float: bottom;
+  bottom: 40px;
+  left: 45%;
+}
+.ho.data-v-f25414ba:hover {
+  background: #ebf4d5;
+}
+.moren.data-v-f25414ba {
+  background: #f6f7f7;
+}

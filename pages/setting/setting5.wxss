@@ -1,0 +1,19 @@
+
+.content.data-v-19563656{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.top1.data-v-19563656 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 100px;
+}
+.submit_box.data-v-19563656 {
+  position: absolute;
+  float: bottom;
+  bottom: 40px;
+  left: 45%;
+}
